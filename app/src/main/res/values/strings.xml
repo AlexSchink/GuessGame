@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="lower_border">Lower border</string>
+    <string name="upper_border">Upper border</string>
+    <string name="guess">Guess:</string>
+    <string name="status">status...</string>
+    <string name="settings">Settings</string>
+</resources>
